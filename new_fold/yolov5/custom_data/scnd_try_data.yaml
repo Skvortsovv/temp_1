@@ -1,0 +1,5 @@
+train: /home/magicsonka/yolov5/custom_data/train
+val: /home/magicsonka/yolov5/custom_data/val
+
+nc: 2
+names: ['scores', 'serial']
